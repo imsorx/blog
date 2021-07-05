@@ -1,4 +1,4 @@
-# ✨Enhancing Windows Terminal experience
+# Boosting Windows Terminal experience
 
 If you are using Windows and Linux both for development, wouldn't it be nice to have same terminal experience like Linux terminal (which allows with tons of configurations 😁) without need of installing a new [Terminal](https://www.puttygen.com/windows-terminal-emulators).
 
@@ -7,7 +7,8 @@ If you are using Windows and Linux both for development, wouldn't it be nice to 
 ## Okay, so how it's possible? 🤔
 
 Before we get into that, we need to ask why we needed to install new terminal?
-Because we needed configurable GUI which windows command prompt is not. But there is another console available on windows i.e. `Powershell` which more powerful than `cmd` by allowing scripting and modules.
+
+that's Because we needed configurable GUI which windows command prompt is not. But there is another console available on windows i.e. `Powershell` which more powerful than `cmd` by allowing scripting and modules.
 
 ## How to do it? 😍
 
