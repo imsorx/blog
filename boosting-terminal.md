@@ -52,3 +52,5 @@ New-Alias -Name <Aliase> -Value <Function-Name>
 For `options/arguments` available while setting aliases or more information on this head over to PowerShell aliases [docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/set-alias).
 
 > [ThatRubenAguilar](https://gist.github.com/ThatRubenAguilar) has build awesome git aliases, you can find it [here](https://gist.github.com/ThatRubenAguilar/85670a6948c6bec777ddaa2b1e8f5cca) and customize to your need.
+
+If you have any suggestion or tips, pleas do share ;)
