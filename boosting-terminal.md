@@ -1,5 +1,7 @@
 # Boosting Windows Terminal experience
 
+![preview](https://github.com/imsorx/sorx.space/raw/assets/terminal.png)
+
 If you are using Windows and Linux both for development, wouldn't it be nice to have same terminal experience like Linux terminal (which allows with tons of configurations 😁) without need of installing a new [Terminal](https://www.puttygen.com/windows-terminal-emulators).
 
 > My personal favorite 3rd party terminal is Hyper 🤫
@@ -53,4 +55,4 @@ For `options/arguments` available while setting aliases or more information on t
 
 > [ThatRubenAguilar](https://gist.github.com/ThatRubenAguilar) has build awesome git aliases, you can find it [here](https://gist.github.com/ThatRubenAguilar/85670a6948c6bec777ddaa2b1e8f5cca) and customize to your need.
 
-If you have any suggestion or tips, pleas do share ;)
+If you have any suggestion or tips, please do share ;)
